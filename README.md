@@ -46,12 +46,17 @@ Full Stack Engineer (MERN) and Computer Science student at the Institute of Adva
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denish2410/Denish2410/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Denish2410/Denish2410/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denish2410/Denish2410/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Denish2410/Denish2410/main/profile-3d-contrib/profile-gitblock.svg" />
   </picture>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denish2410&theme=github-compact&hide_border=true" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denish2410/Denish2410/output/pacman-contribution-graph-dark.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Denish2410/Denish2410/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
 
 ## Skills
 
