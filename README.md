@@ -51,6 +51,10 @@ Full Stack Engineer (MERN) and Computer Science student at the Institute of Adva
   </picture>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+(MERN);Building+FinTech%2C+PWA+%26+AI+apps;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB" />
+</p>
+
 ## Skills
 
 - **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Progressive Web Apps
